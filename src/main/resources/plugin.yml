@@ -1,8 +1,8 @@
 name: MangoQuestReloaded
 main: me.Cutiemango.MangoQuest.Main
-version: 2.4.3
+version: 2.4.4
 api-version: 1.13
-authors: [Cutiemango,WanderingPalace]
+authors: [Cutiemango,WanderingPalace,poyu39]
 depend: [Vault, Citizens]
 softdepend: [MythicMobs, SkillAPI, QuantumRPG, Shopkeepers,PlaceholderAPI,mcMMO,DiscordSRV]
 commands:
